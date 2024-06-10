@@ -1,4 +1,4 @@
-site_name: National HIE Registries Documentation
+site_name: Uganda National Health Information Exchange Registries Documentation
 theme:
   name: material
   font:
@@ -46,4 +46,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 Ministry of Health Uganda
+  &copy; 2024 Ministry of Health Uganda
